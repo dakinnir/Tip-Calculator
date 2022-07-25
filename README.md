@@ -24,8 +24,8 @@
 * Calculate tip based on amount entered 
 
 #### Addtional Features
-- [x] Add UIStepper to get party size and calculate based on the number
+- [x] Added UIStepper to get party size and calculate based on the number
 - [x] Navigate to another view controller
-- [x] Add dark mode feature
-- [x] Passing data between view controllers
+- [x] Added dark mode feature
+- [x] Passed data between view controllers
 
